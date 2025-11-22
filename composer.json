@@ -1,5 +1,5 @@
 {
-  "name": "swoft/error",
+  "name": "seagm-swoft/error",
   "type": "library",
   "version": "v2.0.11",
   "keywords": [
@@ -13,7 +13,7 @@
   "homepage": "https://github.com/swoft-cloud/swoft-error",
   "license": "Apache-2.0",
   "require": {
-    "swoft/stdlib": "~2.0.0"
+    "seagm-swoft/stdlib": "~2.0.0"
   },
   "autoload": {
     "psr-4": {
